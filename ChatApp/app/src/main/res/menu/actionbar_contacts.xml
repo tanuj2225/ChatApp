@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/contacts" android:icon="@drawable/inbox"
+        android:title="Inbox"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/editProfile" android:icon="@drawable/edit" app:showAsAction="always" android:title="Update Profile"/>
+    <item
+        android:id="@+id/logout" android:icon="@drawable/ic_power_settings_new_black_24dp" app:showAsAction="always" android:title="Logout">
+    </item>
+
+</menu>

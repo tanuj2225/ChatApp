@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/album"
+    android:layout_margin="10dp"
+    android:padding="20dp"
+    >
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/com_facebook_profile_picture_blank_portrait"
+        android:id="@+id/picture" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/picture_date"
+        android:textSize="18sp"
+        android:textAlignment="center"
+        android:textColor="@color/com_smart_login_code"
+        android:layout_marginTop="20dp"/>
+</LinearLayout>

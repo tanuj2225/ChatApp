@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "660969075643",
+    "firebase_url": "https://chatapp-7fe3c.firebaseio.com",
+    "project_id": "chatapp-7fe3c",
+    "storage_bucket": "chatapp-7fe3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660969075643:android:895805d82ed193c4",
+        "android_client_info": {
+          "package_name": "edu.uncc.tanuj.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660969075643-e3aieb7hsp9vs2o6nem74343bbj8qr8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uncc.tanuj.chatapp",
+            "certificate_hash": "246844A661C41D6864EDC5069B262113D677D0B6"
+          }
+        },
+        {
+          "client_id": "660969075643-o9v97oiu0gdft6icejfb5t4b560d7fgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uncc.tanuj.chatapp",
+            "certificate_hash": "32B4B010263E16AE5B7A49BD4DF9023EEF58B8CF"
+          }
+        },
+        {
+          "client_id": "660969075643-96i5p8ld03q5hatalcbn4sh9slophanh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKF8K53ZqF8CVy3ed9GS5tfwHjuMgzAgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660969075643-96i5p8ld03q5hatalcbn4sh9slophanh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

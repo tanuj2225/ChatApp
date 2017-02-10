@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="facebook_app_id">599505636900020</string>
+    <string name="fb_login_protocol_scheme">fb599505636900020</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
